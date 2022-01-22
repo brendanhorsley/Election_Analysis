@@ -1,11 +1,11 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 
-##Resources
+## Resources
 
-##Summary
+## Summary
 
-##Challenge Overview
+## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary
