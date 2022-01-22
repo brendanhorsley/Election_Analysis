@@ -40,7 +40,7 @@ with open(file_to_load) as election_data:
 
 with open(file_to_save, "w") as txt_file:
    election_results = (
-      f"\nElection Rsults\n"
+      f"\nElection Results\n"
       f"----------------------\n"
       f"Total Votes: {total_votes:,}\n"
       f"----------------------\n")
@@ -71,7 +71,7 @@ with open(file_to_save, "w") as txt_file:
    print(winning_candidate_summary)
 
    txt_file.write(winning_candidate_summary)
-   
+
 
 #close the file
 
